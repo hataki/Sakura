@@ -33,7 +33,8 @@ mashiro_option.skin_bg2 = "https://cdn.jsdelivr.net/gh/spirit1431007/cdn@1.6/img
 mashiro_option.skin_bg3 = "https://cdn.jsdelivr.net/gh/spirit1431007/cdn@1.6/img/star02.png";
 mashiro_option.skin_bg4 = "https://cdn.jsdelivr.net/gh/spirit1431007/cdn@1.6/img/kyotoanimation.png";
 mashiro_option.skin_bg5 = "https://cdn.jsdelivr.net/gh/spirit1431007/cdn@1.6/img/dot_orange.gif";
-mashiro_option.skin_bg6 = "https://api.mashiro.top/bing/";
+// mashiro_option.skin_bg6 = "https://api.mashiro.top/bing/";  啊 域名改改改、、、
+mashiro_option.skin_bg6 = "http://api.luckymiao.wang/";
 mashiro_option.skin_bg7 = "https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.2/other-sites/api-index/images/me.png";
 <?php } ?>
 
