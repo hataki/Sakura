@@ -481,7 +481,7 @@ msgstr "站点名称"
 
 #: options.php:115
 msgid "Mashiro's Blog"
-msgstr "樱花庄的白猫"
+msgstr "猫猫的小幸运"
 
 #: options.php:122
 msgid "Mashiro"
